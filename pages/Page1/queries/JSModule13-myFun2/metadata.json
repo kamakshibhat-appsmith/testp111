@@ -2,10 +2,8 @@
   "gitSyncId": "667d8ca2a5ef2d041cf0665e_caf867d3-0635-41e4-b880-f4b8549df9ad",
   "id": "Page1__$JSModule13$_JSModule1.myFun2",
   "isPublic": true,
-  "moduleInstanceId": "Page1_JSModule13",
   "pluginId": "js-plugin",
   "pluginType": "JS",
-  "rootModuleInstanceId": "Page1_JSModule13",
   "unpublishedAction": {
     "clientSideExecution": true,
     "collectionId": "Page1__$JSModule13$_JSModule1",
